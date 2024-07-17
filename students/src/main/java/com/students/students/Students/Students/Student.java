@@ -1,4 +1,4 @@
-package com.students.students.Students;
+package com.students.students.Students.Students;
 
 import com.students.students.Students.ExceptionsHandler.CustomValidators.CustomValidator;
 import jakarta.persistence.Entity;

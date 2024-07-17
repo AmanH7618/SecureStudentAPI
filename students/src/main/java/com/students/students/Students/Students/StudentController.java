@@ -1,4 +1,4 @@
-package com.students.students.Students;
+package com.students.students.Students.Students;
 
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

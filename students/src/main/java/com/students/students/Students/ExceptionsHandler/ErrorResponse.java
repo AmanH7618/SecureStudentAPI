@@ -1,7 +1,8 @@
 package com.students.students.Students.ExceptionsHandler;
 
 
-public class ErrorResponse {
+public class
+ErrorResponse {
     private String message;
     private String details;
 

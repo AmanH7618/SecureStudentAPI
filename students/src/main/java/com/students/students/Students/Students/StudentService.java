@@ -1,6 +1,7 @@
-package com.students.students.Students;
+package com.students.students.Students.Students;
 
 import com.students.students.Students.ExceptionsHandler.StudentNotFound;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
